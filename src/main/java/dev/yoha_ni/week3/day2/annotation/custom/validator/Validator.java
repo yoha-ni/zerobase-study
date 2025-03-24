@@ -1,7 +1,7 @@
 package dev.yoha_ni.week3.day2.annotation.custom.validator;
 
-import dev.annotation.custom.CarRequest;
-import dev.annotation.custom.YearRange;
+import dev.yoha_ni.week3.day2.annotation.custom.CarRequest;
+import dev.yoha_ni.week3.day2.annotation.custom.YearRange;
 
 import java.lang.reflect.Field;
 
