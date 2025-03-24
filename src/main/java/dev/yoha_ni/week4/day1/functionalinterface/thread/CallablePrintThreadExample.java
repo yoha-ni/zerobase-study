@@ -19,7 +19,7 @@ public class CallablePrintThreadExample {
             System.out.println("[" + Thread.currentThread().getName() + "]" + "Callable Result = " + future.get());
 
         } catch (Exception e) {
-            e.printStackTrace();
+            e.getStackTrace();
         }
 
         executor.shutdown();

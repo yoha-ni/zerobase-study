@@ -16,21 +16,11 @@ import java.util.stream.IntStream;
 class StudentTest {
     private final Faker faker = new Faker();
     private final Supplier<Student> getStudent = () -> new Student(faker.name().fullName(), faker.number().numberBetween(0, 100));
-//    private final Supplier<List<Student>> getStudents = () ->
-//            IntStream.range(0, 20).mapToObj((int i) -> getStudent.get()).toList();
 
     private final Supplier<List<Student>> getStudents = () ->
             IntStream.range(0, 20)
                     .mapToObj((int i) -> getStudent.get())
                     .collect(Collectors.toCollection(ArrayList::new));
-
-//    @Test
-//    void testCompareTo() {
-//        Student student1 = new Student("요한", 100);
-//        Student student2 = new Student("정환", 10);
-//
-//        System.out.println(student1.compareTo(student2));
-//    }
 
     @Test
     void tsetComparble() {
