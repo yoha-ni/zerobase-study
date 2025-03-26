@@ -1,4 +1,4 @@
-package dev.yoha_ni.week4.day3.javachange.java8.interfacedefaultmethod;
+package dev.yoha_ni.week4.day3.javachange.java8.defaultmethod;
 
 import java.time.ZonedDateTime;
 
