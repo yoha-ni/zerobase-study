@@ -16,6 +16,8 @@ public class CollectionFactoryTest {
 
         // new - 불변
         List<String> newList = List.of("apple", "banana", "cherry");
+        System.out.println(oldList);
+        System.out.println(newList);
     }
 
     @Test
@@ -30,5 +32,6 @@ public class CollectionFactoryTest {
         Map<String, String> newMap = Map.of("key1", "value1", "key2", "value2");
 
         assertThat(oldMap.equals(newMap));
+        System.out.println(assertThat(oldMap.equals(newMap)));
     }
 }
