@@ -6,6 +6,10 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
+/**
+ * 제로베이스 35기 서요한
+ */
+
 public class StreamInput {
 
     public static void main(String[] args) {

@@ -8,6 +8,10 @@ import java.lang.reflect.Field;
 import java.util.HashMap;
 import java.util.Map;
 
+
+/**
+ * 제로베이스 35기 서요한
+ */
 public class ReflectionJson {
     public static void main(String[] args) {
         try {
@@ -23,7 +27,6 @@ public class ReflectionJson {
 
 class JsonSerializer {
     public String serialize(Object object) throws IllegalAccessException {
-
 
         Class<?> clazz = object.getClass();
         Map<String, Object> jsonMap = new HashMap<>();
@@ -55,7 +58,6 @@ class JsonSerializer {
 
             jsonBuilder.append(entry.getKey()).append(": ");
 
-            // 값의 타입에 따라 적절히 포맷팅
             Object value = entry.getValue();
             if (value instanceof String) {
                 jsonBuilder.append("\"").append(value).append("\"");
