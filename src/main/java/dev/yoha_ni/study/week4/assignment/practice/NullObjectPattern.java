@@ -1,4 +1,4 @@
-package dev.yoha_ni.week4.assignment.practice;
+package dev.yoha_ni.study.week4.assignment.practice;
 
 /**
  * 제로베이스 35기 서요한

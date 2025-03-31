@@ -1,4 +1,4 @@
-package dev.yoha_ni.week4.assignment.optional;
+package dev.yoha_ni.study.week4.assignment.optional;
 
 import java.util.Arrays;
 import java.util.Comparator;

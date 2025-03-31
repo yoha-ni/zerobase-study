@@ -1,4 +1,4 @@
-package dev.yoha_ni.week4.assignment.practice;
+package dev.yoha_ni.study.week4.assignment.practice;
 
 import java.io.IOException;
 import java.nio.file.Files;

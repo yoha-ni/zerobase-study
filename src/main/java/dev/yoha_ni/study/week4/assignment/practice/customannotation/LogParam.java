@@ -1,4 +1,4 @@
-package dev.yoha_ni.week4.assignment.practice.customannotation;
+package dev.yoha_ni.study.week4.assignment.practice.customannotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
