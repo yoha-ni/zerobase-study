@@ -1,8 +1,8 @@
 package dev.yoha_ni.week4.day1.lambda;
 
+import dev.yoha_ni.study.week4.day1.lambda.Calculator;
+import dev.yoha_ni.study.week4.day1.lambda.Operate;
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class CalculatorTest {
     @Test

@@ -1,5 +1,7 @@
 package dev.yoha_ni.week4.day1.functionalinterface.compare;
 
+import dev.yoha_ni.study.week4.day1.functionalinterface.compare.NameComparator;
+import dev.yoha_ni.study.week4.day1.functionalinterface.compare.Student;
 import net.datafaker.Faker;
 import org.junit.jupiter.api.MethodOrderer;
 import org.junit.jupiter.api.Test;
