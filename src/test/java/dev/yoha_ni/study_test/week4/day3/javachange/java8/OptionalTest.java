@@ -1,4 +1,4 @@
-package dev.yoha_ni.week4.day3.javachange.java8;
+package dev.yoha_ni.study_test.week4.day3.javachange.java8;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;

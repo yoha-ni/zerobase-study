@@ -1,4 +1,4 @@
-package dev.yoha_ni.week4.day3.javachange.java17;
+package dev.yoha_ni.study_test.week4.day3.javachange.java17;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

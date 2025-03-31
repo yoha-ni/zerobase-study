@@ -1,4 +1,4 @@
-package dev.yoha_ni.week4.day3.stream;
+package dev.yoha_ni.study_test.week4.day3.stream;
 
 import net.datafaker.Faker;
 import org.junit.jupiter.api.Test;

@@ -1,4 +1,4 @@
-package dev.yoha_ni.week4.day1.lambda;
+package dev.yoha_ni.study_test.week4.day1.lambda;
 
 import dev.yoha_ni.study.week4.day1.lambda.Calculator;
 import dev.yoha_ni.study.week4.day1.lambda.Operate;

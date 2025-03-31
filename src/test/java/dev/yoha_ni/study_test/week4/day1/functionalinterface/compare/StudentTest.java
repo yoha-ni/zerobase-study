@@ -1,4 +1,4 @@
-package dev.yoha_ni.week4.day1.functionalinterface.compare;
+package dev.yoha_ni.study_test.week4.day1.functionalinterface.compare;
 
 import dev.yoha_ni.study.week4.day1.functionalinterface.compare.NameComparator;
 import dev.yoha_ni.study.week4.day1.functionalinterface.compare.Student;

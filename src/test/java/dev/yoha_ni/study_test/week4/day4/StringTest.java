@@ -1,4 +1,4 @@
-package dev.yoha_ni.week4.day4;
+package dev.yoha_ni.study_test.week4.day4;
 
 import org.junit.jupiter.api.Test;
 
