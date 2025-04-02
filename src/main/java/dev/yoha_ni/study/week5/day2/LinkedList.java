@@ -35,6 +35,17 @@ public class LinkedList {
             size++;
         }
 
+        public void add(int index, int value) {
+            // 인덱스 유효범위
+
+            Node newNode = new Node(value);
+
+            if (index == 0) {
+                // 새로운 값이 head가 될때
+                newNode.pointer = head;
+            }
+        }
+
         public void remove() {
             Node current = head;
 
