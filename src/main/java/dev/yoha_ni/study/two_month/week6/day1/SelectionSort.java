@@ -1,4 +1,4 @@
-package dev.yoha_ni.study.two_month.week6;
+package dev.yoha_ni.study.two_month.week6.day1;
 
 import java.util.*;
 import java.io.*;
