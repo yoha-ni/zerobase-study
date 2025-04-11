@@ -3,7 +3,7 @@ package dev.yoha_ni.study.two_month.week6.day3;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+public class SolutionW6_5 {
 
     public static int solution(int N, int[][] trust) {
         int judge = trust[0][1];
