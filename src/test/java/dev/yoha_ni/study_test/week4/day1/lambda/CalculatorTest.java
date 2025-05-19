@@ -1,7 +1,7 @@
 package dev.yoha_ni.study_test.week4.day1.lambda;
 
-import dev.yoha_ni.study.one_month.week4.day1.lambda.Calculator;
-import dev.yoha_ni.study.one_month.week4.day1.lambda.Operate;
+import dev.yoha_ni.study.month_01.week4.day1.lambda.Calculator;
+import dev.yoha_ni.study.month_01.week4.day1.lambda.Operate;
 import org.junit.jupiter.api.Test;
 
 class CalculatorTest {
